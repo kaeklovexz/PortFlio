@@ -1,0 +1,30 @@
+# 🚀 PortFlio - Personal Portfolio & Pro AV / System Solutions
+
+Welcome to the repository for my personal portfolio web application! This project showcases my professional experience in **Pro AV Systems, Broadcast Engineering, PTZ Camera Configurations, and Technical Solutions**, alongside my background in scientific research and ecological data analysis.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Frontend:** React.js, Vite, HTML5, CSS3, JavaScript (ES6+)
+- **Styling & UI:** Modern UI/UX, Responsive Web Design
+- **Domain Focus:** Pro AV Systems, Video Routing, Live Broadcast, Technical Specifications (TOR)
+
+---
+
+## ✨ Features
+
+- **Professional Showcase:** Highlights specialized projects in Audio-Visual designs, PTZ camera networks, and smart conference room integrations.
+- **Interactive Interface:** Clean, fast, and modern responsive design built with Vite for optimal performance.
+- **Project Case Studies:** Detailed breakdown of technical solution architecture, field deployment, and workflow automation.
+
+---
+
+## 💻 Getting Started Locally
+
+To run this project on your local machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/kaeklovexz/PortFlio.git](https://github.com/kaeklovexz/PortFlio.git)
+   cd PortFlio
